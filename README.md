@@ -1,0 +1,1 @@
+Le projet s'apelle Dragon, dans le projet, on est 3, Milo, Jonathan et Djola, nous avons comme projet de faire un site web pour une entreprise fictive, nous avons pour regles d'utiliser des mot clées pour les commits (exemple : Bug, Feature, etc...)
