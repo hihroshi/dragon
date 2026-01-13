@@ -6,6 +6,7 @@
     background-color: rgb(30,24,24);
     padding: 10px;
     border-radius: 5px;
+}
 .section2{
     display: flex;
     justify-content: space-between;
@@ -39,12 +40,14 @@ button{
 button:hover{
     background-color: rgb(205, 205 , 205);
     transition-duration: 0.5s;
+}
 .im{
     display: flex;
     justify-content: center;
 }
 .sec{
     font-family: Arial, sans-serif;
+}
 .Tel {
 color: rgba(152, 185, 18, 0.838);
 background-color: rgba(14, 14, 14, 0.923)
