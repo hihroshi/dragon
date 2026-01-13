@@ -1,3 +1,14 @@
+body{
+    background-color: rgb(30 , 30, 30);
+    color: rgb(235, 235, 235);
+    margin: 0   ;
+}
+.im{
+    display: flex;
+    justify-content: center;
+}
+.sec{
+    font-family: Arial, sans-serif;
 .Tel {
 color: rgba(152, 185, 18, 0.838);
 background-color: rgba(14, 14, 14, 0.923)
@@ -12,8 +23,4 @@ background-color: rgba(14, 14, 14, 0.923)
 display: flex;
 background-color: rgba(14, 14, 14, 0.923);
 justify-content: space-between;
-}
-body {
-    background-color: rgb(30,30,30);
-    color: white;
 }
