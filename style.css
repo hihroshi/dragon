@@ -1,3 +1,11 @@
+.p{
+    display: flex;
+    justify-content: space-between;
+}
+.p div{
+    background-color: rgb(30,24,24);
+    padding: 10px;
+    border-radius: 5px;
 .section2{
     display: flex;
     justify-content: space-between;
